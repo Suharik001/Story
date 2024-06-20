@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-It was the age pf wisdom, it was the age of lllll.
-=======
-It was the age pf aliens, it was the age of foolishness.
->>>>>>> alien-plot
+It was the age pf aliens, it was the age of humans.
+

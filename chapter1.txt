@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-It was the best of time, it was the  of times.
-=======
-It was the best of time, it was the worst of space.
->>>>>>> alien-plot
+It was the best of space, it was the worst of space.
+
